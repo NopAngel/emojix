@@ -12,11 +12,6 @@ dist
 dist-ssr
 *.local
 
-# db
-
-*data.ts
-./src/snippets/data.ts
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
