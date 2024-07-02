@@ -23,7 +23,7 @@ export const jsonData = [
         type: 'Reptil',
         title: 'Serpiente.'
     },{
-        emoji: "🐈‍⬛",
+        emoji: "🐈",
         type: 'Animal',
         id: 4,
         title: 'Gato.'
