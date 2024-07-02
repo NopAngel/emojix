@@ -3,7 +3,7 @@
   import Github from "../../public/github.svelte";
 </script>
 
-<header class="sticky top-0">
+<header class="sticky top-0 bg-[#121212]/55 backdrop-blur-sm">
   <nav>
     <ul
       class="flex items-center p-3 border-b-[1px] border-neutral-800 xl:justify-around justify-between"
