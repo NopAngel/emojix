@@ -22,7 +22,7 @@
     "vite": "^5.2.0"
   },
   "dependencies": {
+    "svelte-sonner": "^0.3.28",
     "svelte-spa-router": "^4.0.1"
   }
 }
-

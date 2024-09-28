@@ -14,6 +14,7 @@
         id={data.id}
         name={data.title}
         type={data.type}
+        isButtonSaved={true}
       />
     {/each}
   </section>

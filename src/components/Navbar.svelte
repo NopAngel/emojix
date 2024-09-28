@@ -21,6 +21,11 @@
           <a href="/#/api">API</a>
         </li>
 
+        <li class="flex items-center gap-2">
+          <Cloud />
+          <a href="/#/saves">Guardados</a>
+        </li>
+
         <li>
           <a href="https://github.com/NopAngel/emojix" target="_blank">
             <Github />

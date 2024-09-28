@@ -1,9 +1,12 @@
 <script>
   import Router from "svelte-spa-router";
-  import Card from "./components/Cards/Card.svelte";
   import Navbar from "./components/Navbar.svelte";
   import routes from "./routes/route";
+  import { Toaster, toast } from 'svelte-sonner'
 </script>
 
-<Navbar />
-<Router {routes} />
+<main>
+  <Toaster />
+  <Navbar />
+  <Router {routes} />
+</main>
