@@ -3,6 +3,17 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "keywords": [
+    "Emojix",
+    "App",
+    "Website"
+  ],
+  "author": "NopAngel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NopAngel/emojix/issues"
+  },
+  "homepage": "https://github.com/NopAngel/emojix#readme",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
